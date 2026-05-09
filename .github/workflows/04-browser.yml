@@ -88,17 +88,17 @@ jobs:
           MEDIA_FOLDER="$FOLDER/media"
           mkdir -p "$FOLDER" "$MEDIA_FOLDER"
 
-          # Download HTML
-          echo "Downloading page HTML..."
-          curl -L -A "Mozilla/5.0" -o "$FOLDER/page.html" "$URL"
+          # Download mhtml
+          echo "Downloading page mhtml..."
+          curl -L -A "Mozilla/5.0" -o "$FOLDER/page.mhtml" "$URL"
 
           # Take screenshot
           echo "Taking screenshot..."
           node screenshot.js "$URL" "$FOLDER/screenshot.png" && SCREENSHOT_OK=true || SCREENSHOT_OK=false
 
           # Extract links
-          grep -oP 'href="\K[^"]*' "$FOLDER/page.html" | sort -u > "$FOLDER/all_links.txt"
-          grep -oP 'src="\K[^"]*' "$FOLDER/page.html" | sort -u >> "$FOLDER/all_links.txt"
+          grep -oP 'href="\K[^"]*' "$FOLDER/page.mhtml" | sort -u > "$FOLDER/all_links.txt"
+          grep -oP 'src="\K[^"]*' "$FOLDER/page.mhtml" | sort -u >> "$FOLDER/all_links.txt"
           sort -u "$FOLDER/all_links.txt" -o "$FOLDER/all_links.txt"
 
           # Media types to download
@@ -161,8 +161,8 @@ jobs:
               echo "![Screenshot](./screenshot.png)"
               echo ""
             fi
-            echo "## Raw HTML"
-            echo "[page.html](./page.html)"
+            echo "## Raw mhtml"
+            echo "[page.mhtml](./page.mhtml)"
             echo ""
             echo "## Downloaded Media ($MEDIA_COUNT files)"
             if [ "$MEDIA_COUNT" -gt 0 ]; then
