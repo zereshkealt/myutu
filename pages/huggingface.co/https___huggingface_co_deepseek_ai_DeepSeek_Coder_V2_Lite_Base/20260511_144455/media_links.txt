@@ -1,2 +1,0 @@
-https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png
-https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf
