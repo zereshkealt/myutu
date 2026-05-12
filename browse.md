@@ -10,3 +10,4 @@
 - [https___huggingface_co_John6666_20260507_171402_page_html_other_texture_p_1_sort_trending (20260512_193449)](pages/huggingface.co/https___huggingface_co_John6666_20260507_171402_page_html_other_texture_p_1_sort_trending/20260512_193449/index.md) — 0 media files
 - [https___huggingface_co_John6666 (20260512_194656)](pages/huggingface.co/https___huggingface_co_John6666/20260512_194656/index.md) — 11 media files
 - [https___huggingface_co_John6666_models (20260512_201337)](pages/huggingface.co/https___huggingface_co_John6666_models/20260512_201337/index.md) — 8 media files
+- [https___huggingface_co_John6666_sdxl_backup_202502_tree_main (20260512_202403)](pages/huggingface.co/https___huggingface_co_John6666_sdxl_backup_202502_tree_main/20260512_202403/index.md) — 0 media files
