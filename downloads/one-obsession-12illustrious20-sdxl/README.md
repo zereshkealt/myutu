@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `one-obsession-12illustrious20-sdxl.safetensors` |
-| **URL** | https://huggingface.co/John6666/one-obsession-12illustrious20-sdxl/tree/main/one-obsession-12illustrious20-sdxl.safetensors |
-| **Date** | 2026-05-12 15:09:04 UTC |
+| **URL** | https://huggingface.co/John6666/one-obsession-12illustrious20-sdxl/resolve/main/one-obsession-12illustrious20-sdxl.safetensors |
+| **Date** | 2026-05-12 15:10:09 UTC |
 | **Status** | **FAILED** |
 
 ---
