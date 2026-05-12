@@ -9,3 +9,4 @@
 - [https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main_unet_not_for_all_audien (20260512_185613)](pages/huggingface.co/https___huggingface_co_John6666_one_obsession_12illustrious20_sdxl_tree_main_unet_not_for_all_audien/20260512_185613/index.md) — 1 media files
 - [https___huggingface_co_John6666_20260507_171402_page_html_other_texture_p_1_sort_trending (20260512_193449)](pages/huggingface.co/https___huggingface_co_John6666_20260507_171402_page_html_other_texture_p_1_sort_trending/20260512_193449/index.md) — 0 media files
 - [https___huggingface_co_John6666 (20260512_194656)](pages/huggingface.co/https___huggingface_co_John6666/20260512_194656/index.md) — 11 media files
+- [https___huggingface_co_John6666_models (20260512_201337)](pages/huggingface.co/https___huggingface_co_John6666_models/20260512_201337/index.md) — 8 media files
