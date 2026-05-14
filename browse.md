@@ -7,3 +7,4 @@
 - [https___huggingface_co_Kijai_LTXV2_comfy_discussions_28 (20260514_131302)](pages/huggingface.co/https___huggingface_co_Kijai_LTXV2_comfy_discussions_28/20260514_131302/index.md) — 8 media files
 - [https___huggingface_co_vantagewithai (20260514_134537)](pages/huggingface.co/https___huggingface_co_vantagewithai/20260514_134537/index.md) — 4 media files
 - [https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF (20260514_135914)](pages/huggingface.co/https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF/20260514_135914/index.md) — 1 media files
+- [https___huggingface_co_vantagewithai_Sulphur_2_Base_Split (20260514_140731)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_Split/20260514_140731/index.md) — 1 media files
