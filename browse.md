@@ -9,3 +9,4 @@
 - [https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF (20260514_135914)](pages/huggingface.co/https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF/20260514_135914/index.md) — 1 media files
 - [https___huggingface_co_vantagewithai_Sulphur_2_Base_Split (20260514_140731)](pages/huggingface.co/https___huggingface_co_vantagewithai_Sulphur_2_Base_Split/20260514_140731/index.md) — 1 media files
 - [https___huggingface_co_vantagewithai_vantagewithai_LTX2_3_10Eros_GGUF_tree_main (20260514_144137)](pages/huggingface.co/https___huggingface_co_vantagewithai_vantagewithai_LTX2_3_10Eros_GGUF_tree_main/20260514_144137/index.md) — 0 media files
+- [https___huggingface_co_Lightricks_LTX_2_3 (20260514_172305)](pages/huggingface.co/https___huggingface_co_Lightricks_LTX_2_3/20260514_172305/index.md) — 1 media files
