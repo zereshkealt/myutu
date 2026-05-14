@@ -6,3 +6,4 @@
 - [https___qm_qq_com_q_Hm0vdDyn2A (20260514_082017)](pages/qm.qq.com/https___qm_qq_com_q_Hm0vdDyn2A/20260514_082017/index.md) — 3 media files
 - [https___huggingface_co_Kijai_LTXV2_comfy_discussions_28 (20260514_131302)](pages/huggingface.co/https___huggingface_co_Kijai_LTXV2_comfy_discussions_28/20260514_131302/index.md) — 8 media files
 - [https___huggingface_co_vantagewithai (20260514_134537)](pages/huggingface.co/https___huggingface_co_vantagewithai/20260514_134537/index.md) — 4 media files
+- [https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF (20260514_135914)](pages/huggingface.co/https___huggingface_co_vantagewithai_LTX2_3_10Eros_GGUF/20260514_135914/index.md) — 1 media files
